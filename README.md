@@ -1,5 +1,11 @@
 #🧠 LogeekMind: The All-in-One AI EdTech Platform Overview 
-**LogeekMind** is a comprehensive AI-powered application designed to streamline the entire learning process. Built using Streamlit and powered by Google's Gemini API, this platform integrates nine distinct study tools into one seamless hub.Our goal is to eliminate tool fragmentation and maximize student efficiency.🚀 Key Features Powered by Gemini AICategoryFeatureDescriptionInput ProcessingDocument SummarizerUpload large PDF, DOCX, or TXT notes for instant, concise summaries.AssessmentQuiz GeneratorGenerates dynamic, multiple-choice quizzes (with explanations) from any text input.GuidanceAI TeacherA dedicated conversational AI persona for personalized tutoring and detailed explanations.UtilityStudy SchedulerTool for managing time, prioritizing tasks, and tracking deadlines.🔗 Launch and ConnectAccess the Live Platform (No Sign-up Required):👉 [Launch LogeekMind: https://logeekmind.carrd.co]
+**LogeekMind** is a comprehensive AI-powered application designed to streamline the entire learning process. Built using Streamlit and powered by Google's Gemini API, this platform integrates nine distinct study tools into one seamless hub.
+
+Our goal is to eliminate tool fragmentation and maximize student efficiency.🚀 Key Features Powered by Gemini AI: AI Teacher, Course Outline Generator, Summarizer, Homework Assistant,Smart Quiz Generator.
+
+Features: AI Teacher, Homework Assistant, GPA Calculator, Lecture notes to audio converter, Lecture audio to text converter, Study Scheduler,Summarizer, Course Outline Generator, Smart Quiz Generator and Live Community Chat.
+
+🔗 Launch and ConnectAccess the Live Platform (No Sign-up Required):👉 [Launch LogeekMind: https://logeekmind.carrd.co]
 
 Connect with the Creator:Developer: [TheLogeek]
 
