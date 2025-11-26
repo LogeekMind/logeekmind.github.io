@@ -1,4 +1,4 @@
-🧠 #LogeekMind: The All-in-One AI EdTech Platform Overview 
+🧠 # LogeekMind: The All-in-One AI EdTech Platform Overview 
 
 
 **LogeekMind** is a comprehensive AI-powered application designed to streamline the entire learning process. Built using Streamlit and powered by Google's Gemini API, this platform integrates nine distinct study tools into one seamless hub.
