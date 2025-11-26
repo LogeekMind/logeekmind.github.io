@@ -3,6 +3,6 @@
 
 Connect with the Creator:Developer: [TheLogeek]
 
-Twitter/X: [https://x.com/TheLogeek]
+Twitter/X: [https://x.com/TheLogeek?t=1WuRmP60uqDWNdu-vRZS9A&s=09]
 
-Medium Article: [Link to your Medium Article]
+Medium Article: [https://medium.com/@solomonadenuga8/the-end-of-tool-juggling-why-i-built-an-all-in-one-ai-platform-to-conquer-information-overload-the-ab564a3ef355]
